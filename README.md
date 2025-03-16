@@ -17,4 +17,5 @@
 |🎱 로또|step2 리팩토링|``2025-02-14`` ~ ``2025-02-18``|[repository](https://github.com/ljhee92/java-lotto/tree/step2)|[PR](https://github.com/woowacourse/java-lotto/pull/598)|MVC 패턴|
 |📋 출석|step1 구현|``2025-02-18`` ~ ``2025-02-25``|[repository](https://github.com/ljhee92/java-attendance/tree/step1)|[PR](https://github.com/woowacourse/java-attendance/pull/36)|TDD|
 |📋 출석|step2 다시 구현|``2025-02-25`` ~ ``2025-03-03``|[repository](https://github.com/ljhee92/java-attendance/tree/step2)|[PR](https://github.com/woowacourse/java-attendance/pull/129)|TDD|
-|♠️ 블랙잭|step1 게임 실행|``2025-03-04`` ~ |[repository](https://github.com/ljhee92/java-blackjack/tree/step1)|[PR](https://github.com/woowacourse/java-blackjack/pull/796)|Clean Code|
+|♠️ 블랙잭|step1 게임 실행|``2025-03-04`` ~ ``2025-03-11`` |[repository](https://github.com/ljhee92/java-blackjack/tree/step2)|[PR](https://github.com/woowacourse/java-blackjack/pull/796)|Clean Code|
+|♠️ 블랙잭|step2 베팅|``2025-03-11`` ~ ``2025-03-16`` |[repository](https://github.com/ljhee92/java-blackjack/tree/step1)|[PR](https://github.com/woowacourse/java-blackjack/pull/865)|Clean Code|
