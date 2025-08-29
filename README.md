@@ -21,6 +21,7 @@
 |♠️ 블랙잭|step2 베팅|`2025-03-11` ~ `2025-03-16`|[repository](https://github.com/ljhee92/java-blackjack/tree/step2)|[PR](https://github.com/woowacourse/java-blackjack/pull/865)|Clean Code|[회고](https://ju-heee.tistory.com/62)|
 |🇰🇷♟️ 장기|step1 보드 초기화, 기물 이동|`2025-03-18` ~ `2025-03-26`|[repository](https://github.com/ljhee92/java-janggi/tree/step1)|[PR](https://github.com/woowacourse/java-janggi/pull/25)|OOP|
 |🇰🇷♟️ 장기|step2 기물의 확장, DB 적용|`2025-03-26` ~ `2025-04-06`|[repository](https://github.com/ljhee92/java-janggi/tree/step2)|[PR](https://github.com/woowacourse/java-janggi/pull/119)|DB|[회고](https://ju-heee.tistory.com/63)|
+<br />
 
 ## 📗 level 2
 |미션|단계|기간|레포지토리|리뷰 PR|학습 키워드|
@@ -33,9 +34,11 @@
 |⏰ 방탈출 예약 대기|3~4단계 예약 대기, 예약대기 관리|`2025-05-18` ~ `2025-05-27`|[repository](https://github.com/ljhee92/spring-roomescape-waiting/tree/step2)|[PR](https://github.com/woowacourse/spring-roomescape-waiting/pull/282)|영속성 컨텍스트|
 |💵 방탈출 결제/배포|1단계 예약 시 결제단계 추가|`2025-05-27` ~ `2025-06-04`|[repository](https://github.com/ljhee92/spring-roomescape-payment/tree/step1)|[PR](https://github.com/woowacourse/spring-roomescape-payment/pull/171)|Http Client|
 |💵 방탈출 결제/배포|2~4단계 내 예약 페이지 변경, 배포, 문서화, 로깅|`2025-06-02` ~ `2025-06-13`|[repository](https://github.com/ljhee92/spring-roomescape-payment/tree/step2)|[PR](https://github.com/woowacourse/spring-roomescape-payment/pull/293)|AWS, 배포스크립트|
+<br />
 
 ## 📝 글쓰기
 |단계|주제|레포지토리|PR|
 |:---:|:---:|:---:|:---:|
 |레벨 1|유연성 강화 스터디 회고|[repository](https://github.com/ljhee92/woowa-writing/blob/level1/README.md)|[PR](https://github.com/woowacourse/woowa-writing/pull/658)|
 |레벨 2|나의 성장 여정(나만의 학습법)|[repository](https://github.com/ljhee92/woowa-writing/blob/level2/level2.md)|[PR](https://github.com/woowacourse/woowa-writing/pull/802)
+|레벨 3|팀 인터뷰 북|[repository](https://github.com/ljhee92/woowa-writing/blob/level3/level3.md)|[PR](https://github.com/woowacourse/woowa-writing/pull/912)
